@@ -1,0 +1,18 @@
+// google font
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+// reset
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  background-color: $neutral1;
+  line-height: 1.6;
+  font-weight: 400;
+}
